@@ -18,7 +18,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file:///G:/TEST/</url>
+         <url>file:///D:/Training/setup/jenkins_home/jenkins-repo</url>
        </repository>
    </distributionManagement>
 
